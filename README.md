@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Soy de Isla Cristina.<br><br>- 🔭 Estoy estudiando el grado superior DAM<br>- 📚 Actualmente estoy aprendiendo Kotlin<br>- ⚡ En mi tiempo libre me gusta jugar</p>
 
 ###
 
@@ -52,12 +52,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/SrAlex93">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SrAlex93&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 ###

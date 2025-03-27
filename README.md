@@ -53,14 +53,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://open.spotify.com/user/SrAlex93">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SrAlex93&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
+
 
 ###
